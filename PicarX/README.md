@@ -41,3 +41,9 @@ Included in results folder:
 Images showing the robot in action
 
 Logs from testing
+
+### 5. Code
+
+The Python scripts included in code folder were sourced from the official Sunfounder PiCar-X GitHub Repository.
+
+Source: https://github.com/sunfounder/picar-x
